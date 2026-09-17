@@ -137,6 +137,10 @@ footer a:hover {
   gap: 32px;
 }
 
+#sectionLine{
+    border-bottom: 2px solid #dcd8cf;
+}
+
 .eyebrow,
 .section-label {
   font-family: "DM Mono", monospace;
@@ -1513,7 +1517,7 @@ html body {
     footer p {
       flex: none;
       text-align: center;
-      color: yellow;
+      /* color: yellow; */
     }
 
     footer > div {
